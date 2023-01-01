@@ -118,5 +118,7 @@ background:lightgreen;
   color:darkblue;
   background:lightblue;
   }
-
+.main-section{
+padding-top:calc(140px + 1.8rem);
+}
 }
